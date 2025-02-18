@@ -7,7 +7,7 @@ Un escalador está comenzando a practicar en un muro de escalada. El muro tiene 
 
 ### Ejemplo 1
 - **Entrada:** `[2, 5, 4, 6, 8]`
-- **Salida:** `2` (Debe saltar una altura de 3 entre los agarres 0 y 2)
+- **Salida:** `1` (Debe saltar una altura de 1 entre los agarres 1 y 2)
 
 ### Ejemplo 2
 - **Entrada:** `[1, 3, 7, 10]`
